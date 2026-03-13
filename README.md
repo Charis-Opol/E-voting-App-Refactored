@@ -138,3 +138,9 @@ This enforces that **no business logic function ever calls `open()` or `json.dum
 
 ## 6. The Link to the Repository we built the refactor on
 https://github.com/Charis-Opol/E-Voting-App
+
+## 7. Members
+1. Nathaniel Mugenyi M24B23/027
+2. Ezra Kasule Evans S24B23/036
+3. Naddunga Carol S24B23/038
+4. Charis Opol S24B23/003
